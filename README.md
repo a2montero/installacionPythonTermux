@@ -10,10 +10,10 @@ Script para instalar python con matplotlib en Termux
         pkg install root-repo -y 
 4. En el prompt digitar  y dar enter        
         
-        pkg install unstable-termux
+        pkg install unstable-termux -y
 5. En el prompt digitar y dar enter
 
-        apt install git 
+        apt install git -y
 6. En el pormpt digitar y dar enter
 
         git clone https://github.com/a2montero/installacionPythonTermux        
