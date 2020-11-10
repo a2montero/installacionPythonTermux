@@ -12,7 +12,6 @@ LDFLAGS="-L/system/lib/" CFLAGS="-I/data/data/com.termux/files/usr/include/" pip
 
 CFLAGS=" -I/data/data/com.termux/files/usr/include/freetype2" CPPFLAGS=$CFLAGS LDFLAGS=" -lm -lcompiler_rt" pip install matplotlib
 
-apt install vim-python
+apt install vim-python -y
 
 termux-setup-storage
-
