@@ -10,10 +10,10 @@ Script para instalar python con matplotlib en Termux
         termux-setup-storage 
 4. En el prompt digitar y dar enter
 
-        apt install git  (enter)
+        apt install git 
 5. En el pormpt digitar y dar enter
 
-        git clone https://github&#46;com/a2montero/installacionPythonTermux        
+        git clone https://github.com/a2montero/installacionPythonTermux        
 6. En el prompt digitar y dar enter
 
         cd installacionPythonTermux
